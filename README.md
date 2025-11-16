@@ -6,4 +6,4 @@ Eftersom din kompis är ett riktigt fullblodsproffs så förväntar han sig att 
 
 Figmaskissen för applikationen [hittar ni här](https://www.figma.com/design/vcgWPPy2q44oZZ2eORL1wB/Where-its-%40%C2%A0light?node-id=0-1&node-type=canvas&t=YKt1Mb6lYlvuUIR2-0)
 
-Ni kan strunta i startsidan, och ni behöver heller inte bry er om att biljetterna på den sista sidan verkar vara flera till antalet. Endast en biljett räcker!
+Ni behöver inte bry er om att biljetterna på den sista sidan verkar vara flera till antalet. Endast en biljett räcker!
